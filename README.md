@@ -26,7 +26,7 @@
 <!-- QUICK NAV -->
 <div align="center">
 
-`[` [About](#-catabout_mejson) `]` &nbsp;`[` [Philosophy](#-manifesto) `]` &nbsp;`[` [Stack](#-top--o-cpu--tech-i-run-on) `]` &nbsp;`[` [Workflow](#-mydevworkflowyml) `]` &nbsp;`[` [LeetCode](#-ping-leetcodecom) `]` &nbsp;`[` [Stats](#-git-log---stat---authorpunit) `]`
+`[` [About](#-catabout_mejson) `]` &nbsp;`[` [Philosophy](#-manifesto) `]` &nbsp;`[` [Stack](#-top--o-cpu--tech-i-run-on) `]` &nbsp;`[` [Workflow](#-mydevworkflowyml) `]` &nbsp;`[` [LeetCode](#-ping-leetcodecom) `]` &nbsp;`[` [Stats](#-git-log---stat---authorpunit) `]` &nbsp;`[` [Snake](#-contribution_snakegif) `]`
 
 </div>
 
@@ -220,6 +220,17 @@ jobs:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punit49&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+
+</div>
+
+<br/>
+
+## `> ./contribution_snake.gif`
+
+<div align="center">
+
+<!-- Renders automatically once the GitHub Action below is enabled -->
+<img src="https://raw.githubusercontent.com/Punit49/Punit49/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
