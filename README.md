@@ -16,7 +16,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Punit49?label=Follow&style=for-the-badge&color=58A6FF&labelColor=0d1117)](https://github.com/Punit49?tab=followers)
 ![Profile Views](https://komarev.com/ghpvc/?username=Punit49&label=Profile+Views&color=58A6FF&style=for-the-badge&labelColor=0d1117)
-[![LeetCode](https://img.shields.io/badge/LeetCode-justcodepunit-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/u/therealpunit)
+[![LeetCode](https://img.shields.io/badge/LeetCode-therealpunit-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/u/therealpunit)
 ![Status](https://img.shields.io/badge/status-shipping-brightgreen?style=for-the-badge&labelColor=0d1117)
 
 </div>
