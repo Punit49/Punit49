@@ -213,7 +213,7 @@ jobs:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Punit49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://https://streak-stats.demolab.com?user=Punit49&theme=tokyonight&hide_border=true/?user=Punit49&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Punit49&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
