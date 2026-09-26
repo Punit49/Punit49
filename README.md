@@ -196,13 +196,13 @@ jobs:
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/justcodepunit?theme=dark&font=Fira%20Code&ext=heatmap" alt="Punit's LeetCode stats"/>
+<img src="https://leetcard.jacoblin.cool/therealpunit?theme=dark&font=Fira%20Code&ext=heatmap" alt="Punit's LeetCode stats"/>
 
 </div>
 
 <div align="center">
 
-[![LeetCode Profile](https://img.shields.io/badge/View_Full_Profile-justcodepunit-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/therealpunit)
+[![LeetCode Profile](https://img.shields.io/badge/View_Full_Profile-therealpunit-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/therealpunit)
 
 </div>
 
