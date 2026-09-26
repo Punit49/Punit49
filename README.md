@@ -26,7 +26,7 @@
 <!-- QUICK NAV -->
 <div align="center">
 
-`[` [About](#-catabout_mejson) `]` &nbsp;`[` [Philosophy](#-manifesto) `]` &nbsp;`[` [Stack](#-top--o-cpu--tech-i-run-on) `]` &nbsp;`[` [Workflow](#-mydevworkflowyml) `]` &nbsp;`[` [LeetCode](#-ping-leetcodecom) `]` &nbsp;`[` [Stats](#-git-log---stat---authorpunit) `]` &nbsp;`[` [Heatmap](#-git-log---graph---oneline--contribution-heatmap) `]` &nbsp;`[` [Trophies](#-whoami---trophies) `]`
+`[` [About](#-catabout_mejson) `]` &nbsp;`[` [Philosophy](#-manifesto) `]` &nbsp;`[` [Stack](#-top--o-cpu--tech-i-run-on) `]` &nbsp;`[` [Workflow](#-mydevworkflowyml) `]` &nbsp;`[` [LeetCode](#-ping-leetcodecom) `]` &nbsp;`[` [Stats](#-git-log---stat---authorpunit) `]`
 
 </div>
 
@@ -213,66 +213,13 @@ jobs:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Punit49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Punit49&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Punit49&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punit49&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
-</div>
-
-<br/>
-
-## `> git log --graph --oneline` — contribution heatmap
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Punit49&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
-<br/>
-
-## `> ./contribution_snake.gif`
-
-<div align="center">
-
-<!-- Renders automatically once the GitHub Action below is enabled -->
-<img src="https://raw.githubusercontent.com/Punit49/Punit49/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-<details>
-<summary><b>⚙️ How to activate the snake animation above</b></summary>
-<br/>
-
-This uses <a href="https://github.com/Platane/snk">Platane/snk</a> to turn your contribution graph into an animated snake that "eats" your commits.
-
-1. In your `Punit49/Punit49` repo, create `.github/workflows/snake.yml` with the standard `platane/snk` action config, targeting `output/github-contribution-grid-snake-dark.svg` on an `output` branch.
-2. Enable **Read and write permissions** for Actions under **Settings → Actions → General → Workflow permissions**.
-3. Push once — the Action generates the SVG, and this README starts rendering the live animated snake automatically.
-
-</details>
-
-<br/>
-
-## `> whoami --trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Punit49&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
-<br/>
-
-## `> curl wttr.in/quote`
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 </div>
 
